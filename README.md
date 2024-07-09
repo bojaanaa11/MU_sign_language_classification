@@ -1,1 +1,1 @@
-# Sign Language Recongition And Classification
+# Sign Language Recognition And Classification
