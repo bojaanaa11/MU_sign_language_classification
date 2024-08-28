@@ -15,5 +15,3 @@ The dataset and its description can be found at [Kaggle](https://www.kaggle.com/
 ## Team Members
 * Bojana Obradović
 * Mileva Simić
-
-## Setup and Usage
